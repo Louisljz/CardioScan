@@ -25,5 +25,5 @@ Obtain ID Token from GCloud CLI:
 1. `gcloud auth activate-service-account --key-file=.json`
 2. `gcloud auth print-identity-token`
 
-SightCom Server API Dashboard: 
+CardioScan Server API Dashboard: 
 https://console.cloud.google.com/home/dashboard?project=cardio-scan
